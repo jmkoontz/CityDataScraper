@@ -1,0 +1,8 @@
+*.idea
+
+# lists
+StateList.txt
+/stateLists
+
+# dependencies
+/node_modules

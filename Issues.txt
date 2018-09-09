@@ -1,0 +1,15 @@
+Boise, Idaho (Actually Boise City) - done
+Boise, Oklahoma (Actually Boise City) - done
+Red Dog Mine, Alaska (No median income) - done
+Supai, Arizona (No median income) - done
+Kerr, Montana (No median income) - done
+Fort Devens, Massachusetts (No median income) - done
+Hartsville/Trousdale County, Tennessee (Slash in name) - done
+Township 6, Rimertown, North Carolina (Number in name) - done
+All "Disctrict #" in Maryland (Number in name) - done
+Hill 'n Dale, Florida (Apostrophe after space, double hyphen) - done
+
+Santa Margarita, California (Page redirects)
+
+Structural:
+generateLists.js doesn't add numbers to links
